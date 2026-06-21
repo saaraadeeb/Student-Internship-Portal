@@ -1,2 +1,13 @@
 # Student-Internship-Portal
 
+*COMPANY*: TECHNO LINKS
+
+*NAME*: SAARA ADEEB
+
+*DOMAIN*: 
+
+*DURATION*: ONE-MONTH
+
+*MENTOR*: 
+
+
