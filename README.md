@@ -19,9 +19,12 @@ A monitoring module is integrated into the project to ensure the smooth function
 The entire application is containerized using Docker and managed through Docker Compose. Docker Compose enables all services, including the frontend, backend, database, and monitoring tools, to run together in a consistent environment. This simplifies deployment, improves scalability, and reduces configuration-related issues across different systems.
 The Student Internship Portal provides significant benefits to students, recruiters, and educational institutions. Students gain access to internship opportunities, assignments, and project-based learning experiences in a single platform. Recruiters can efficiently manage internships and evaluate student performance. Educational institutions can support practical learning and improve student career readiness.
 In conclusion, the Student Internship Portal is a comprehensive solution that combines internship management, assignment tracking, project submission, monitoring, and containerized deployment. By integrating modern web technologies and automation, the system enhances efficiency, improves communication between students and recruiters, and supports professional skill development through structured internship experiences.
+
 #OUTPUT
 
 <img width="1600" height="750" alt="Image" src="https://github.com/user-attachments/assets/0d78b583-af17-4d9f-8ab5-92d1500e3865" />
+
+
 
 
 
