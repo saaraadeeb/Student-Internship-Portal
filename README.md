@@ -21,6 +21,10 @@ The Student Internship Portal provides significant benefits to students, recruit
 In conclusion, the Student Internship Portal is a comprehensive solution that combines internship management, assignment tracking, project submission, monitoring, and containerized deployment. By integrating modern web technologies and automation, the system enhances efficiency, improves communication between students and recruiters, and supports professional skill development through structured internship experiences.
 #OUTPUT
 
+<img width="1600" height="750" alt="Image" src="https://github.com/user-attachments/assets/0d78b583-af17-4d9f-8ab5-92d1500e3865" />
+
+
+
 
 
 
