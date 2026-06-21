@@ -22,6 +22,8 @@ In conclusion, the Student Internship Portal is a comprehensive solution that co
 
 #OUTPUT
 
+
+
 <img width="1600" height="750" alt="Image" src="https://github.com/user-attachments/assets/0d78b583-af17-4d9f-8ab5-92d1500e3865" />
 
 
