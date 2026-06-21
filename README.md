@@ -4,7 +4,7 @@
 
 *NAME*: SAARA ADEEB
 
-*DOMAIN*: DevOps 
+*DOMAIN*: DevOps and Cloud Computing 
 
 *DURATION*: ONE-MONTH
 
